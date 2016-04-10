@@ -50,7 +50,7 @@
       }
     },
     "sizeofeachdatadiskingb":{
-      "type": "string"
+      "type": "string",
       "metadata": {
        "description": "size of each data disk in GB" 
       }
